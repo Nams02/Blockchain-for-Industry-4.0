@@ -1,8 +1,4 @@
-[[Bodkhe_et+al_BlockchainIndustry40ComprehensiveReview_2020]]
-
 # [Blockchain for Industry 4.0: A Comprehensive Review](https://doi.org/10.1109/access.2020.2988579)
-
-## [[Umesh Bodkhe]]; [[Sudeep Tanwar]]; [[Karan Parekh]] et al.
 
 ## Abstract
 Due to the proliferation of ICT during the last few decades, there is an exponential increase in the usage of various smart applications such as smart farming, smart healthcare, supply-chain & logistics, business, tourism and hospitality, energy management etc. However, for all the aforementioned applications, security and privacy are major concerns keeping in view of the usage of the open channel, i.e., Internet for data transfer. Although many security solutions and standards have been proposed over the years to enhance the security levels of aforementioned smart applications, but the existing solutions are either based upon the centralized architecture (having single point of failure) or having high computation and communication costs. Moreover, most of the existing security solutions have focussed only on few aspects and fail to address scalability, robustness, data storage, network latency, auditability, immutability, and traceability. To handle the aforementioned issues, blockchain technology can be one of the solutions. ==Motivated from these facts, in this paper, we present a systematic review of various blockchain-based solutions and their applicability in various Industry 4.0-based applications==. Our contributions in this paper are in four fold. Firstly, we explored the current state-of-the-art solutions in the blockchain technology for the smart applications. Then, we illustrated the reference architecture used for the blockchain applicability in various Industry 4.0 applications. Then, merits and demerits of the traditional security solutions are also discussed in comparison to their countermeasures. Finally, we provided a comparison of existing blockchain-based security solutions using various parameters to provide deep insights to the readers about its applicability in various applications.
@@ -31,7 +27,7 @@ Weiss et al [^28] discussed about blockchain public healthcare applications
 They have explored how the blockchain technology eliminates the centralized authority during the verification process, its digital signatures [^29] for safe data repository, its architecture, and the challenges.
 From the above-mentioned proposals, we found that most of the recent surveys on the blockchain technology have concentrated on various smart application areas in Industry 4.0 and its security parameters [^43], [^44].
 
-### RESEARCH CONTRIBUTIONS OF THIS PAPER Following are the research contributions of this paper
+### RESEARCH CONTRIBUTIONS OF THIS PAPER:
 A detailed taxonomy of blockchain-based Industry 4.0 applications is presented. A reference architecture having various modules and components for applicability of blockchain in Industry 4.0 is presented.
 A detailed taxonomy of blockchain-based Industry 4.0 applications is presented.
 A reference architecture having various modules and components for applicability of blockchain in Industry 4.0 is presented.
